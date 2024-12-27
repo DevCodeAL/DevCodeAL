@@ -1,8 +1,9 @@
 
-<h2 align="left"># 👋 Hi there! Welcome to my GitHub profile!<br><br>I'm Leomar Abad, a passionate web developer with expertise in **MERN Stack** and **PHP/MySQL** development. My journey in tech is driven by curiosity and a love for creating functional, user-friendly applications. 🚀<br><br>## ## 🏆 Achievements<br>- **Web Design Champion (2024-2025)**  <br>  College for Research and Technology (CRT)  <br>  *Awarded for designing innovative and responsive web systems.*  <br><br>- **Commission-Based Web App Systems**  <br>  Completed systems for real-world use cases during college.  <br><br>---<br><br>## 📚 Currently Learning<br>- Advanced **React.js** (Redux, Context API, custom hooks)  <br>- **TypeScript** for scalable JavaScript projects  <br>- **Next.js** for server-side rendering and SEO optimization  <br><br>---<br><br>## 💡 Fun Fact<br>I love collaborating on **open-source projects** and exploring new tech trends! When I'm not coding, you can find me sketching UI designs or brainstorming innovative solutions. 🎨<br><br><br>💻 **Let's build amazing things together!** 🚀</h2>
+<h2 align="left"># 👋 Hi there! Welcome to my GitHub profile!<br><br>I'm Leomar Abad, a passionate web developer with expertise in **MERN Stack** and **PHP/MySQL** development. My journey in tech is driven by curiosity and a love for creating functional, user-friendly applications. 🚀<br><br>
+ <br><br>## 📚 Currently Learning<br>- Advanced **React.js** (Redux, Context API, custom hooks)  <br>- **TypeScript** for scalable JavaScript projects  <br>- **Next.js** for server-side rendering and SEO optimization  <br><br>---<br><br>## 💡 Fun Fact<br>I love collaborating on **open-source projects** and exploring new tech trends! When I'm not coding, you can find me sketching UI designs or brainstorming innovative solutions. 🎨<br><br><br>💻 **Let's build amazing things together!** 🚀</h2>
 
-###
 
+## 🛠️ Tech Stack<br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo"  />
   <img width="12" />
