@@ -1,6 +1,6 @@
 
 <h2 align="left"># 👋 Hi there! Welcome to my GitHub profile!<br><br>I'm Leomar Abad, a passionate web developer with expertise in **MERN Stack** and **PHP/MySQL** development. My journey in tech is driven by curiosity and a love for creating functional, user-friendly applications. 🚀<br><br>
- <br><br>## 📚 Currently Learning<br>- Advanced **React.js** (Redux, Context API, custom hooks)  <br>- **TypeScript** for scalable JavaScript projects  <br>- **Next.js** for server-side rendering and SEO optimization  <br><br>---<br><br>## 💡 Fun Fact<br>I love collaborating on **open-source projects** and exploring new tech trends! When I'm not coding, you can find me sketching UI designs or brainstorming innovative solutions. 🎨<br><br><br>💻 **Let's build amazing things together!** 🚀</h2>
+ <br><br>## 📚 Currently Learning<br>- Advanced **React.js** (Redux, Context API, custom hooks)  <br>- **TypeScript** for scalable JavaScript projects  <br>- **Next.js** for server-side rendering and SEO optimization  <br><br><br><br>## 💡 Fun Fact<br>I love collaborating on **open-source projects** and exploring new tech trends! When I'm not coding, you can find me sketching UI designs or brainstorming innovative solutions. 🎨<br><br><br>💻 **Let's build amazing things together!** 🚀</h2>
 
 
 ## 🛠️ Tech Stack<br><br>
